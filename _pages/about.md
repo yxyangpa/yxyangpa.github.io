@@ -17,7 +17,7 @@ I specialize in Sport Management and Physical Activity Research. In Sport Manage
 Contact
 ======
 - Email: yanxiang.yang(at)tum.de
-- Phone: Phone +49.89.289.24569
+- Phone: +49.89.289.24569
 - Address: Georg-Brauchle-Ring 60/62, 80992 Munich, Germany
 
 Updates
