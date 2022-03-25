@@ -14,6 +14,11 @@ I earned my B.M. in Management at [Shanghai University](https://www.shu.edu.cn/)
 
 I specialize in Sport Management and Physical Activity Research. In Sport Management, I focus on team sports; in physical activity, I focus on the use of gamified smartphone apps.
 
+Contact
+======
+- Email: yanxiang.yang(at)tum.de
+- Phone: Phone +49.89.289.24569
+- Address: Georg-Brauchle-Ring 60/62, 80992 Munich, Germany
 
 Updates
 ======
