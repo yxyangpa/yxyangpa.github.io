@@ -9,6 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+
+Publications
+======
+* Sport Management
+  * Anton Behrens, Yanxiang Yang, and Sebastian Uhrich (2022). ["Keeping It Real or Bridging the Gap? Brand Positioning of US Sport Teams in Germany and China"](https://journals.humankinetics.com/view/journals/jsm/36/2/article-p105.xml). Journal of Sport Management, (In press).
+  * Yanxiang Yang, Tim Pawlowski, and Joerg Koenigstorfer (Under review). Predicting transfer fees in professional European football before and during COVID-19.
+
+* Gamification and Physical Activity
+  * Yanxiang Yang, Huijun Hu, and Joerg Koenigstorfer (2022). ["Effects of Gamified Smartphone Applications on Physical Activity: A Systematic Review and Meta-Analysis"](https://www.ajpmonline.org/article/S0749-3797(21)00560-2/pdf). American journal of preventive medicine. 62(4): P602-613
+
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
