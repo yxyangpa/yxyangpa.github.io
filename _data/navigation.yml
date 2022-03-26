@@ -2,7 +2,7 @@
 main:
     
   - title: "Publications"
-    url: /cv/
+    url: /publications/
 
   - title: "Talks"
     url: /talks/    
