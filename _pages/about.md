@@ -14,12 +14,6 @@ I earned my B.M. in Management at [Shanghai University](https://www.shu.edu.cn/)
 
 I specialize in Sport Management and Physical Activity Research. In Sport Management, I focus on team sports; in physical activity, I focus on the use of gamified smartphone apps.
 
-Contact
-======
-- Email: yanxiang.yang(at)tum.de
-- Phone: +49.89.289.24569
-- Address: Georg-Brauchle-Ring 60/62, 80992 Munich, Germany
-
 Updates
 ======
 - Since 12 April 2022: I will have a 6-month visiting stay at the [Sport Industry Research Center](https://sthm.temple.edu/sport-industry-research-center/), Temple University.
@@ -27,3 +21,13 @@ Updates
 - 20 Oct 2021: our paper entitled "Effects of Gamified Smartphone Applications on Physical Activity: A Systematic Review and Meta-Analysis" was accepted by American Journal of Preventive Medicine.
 - 01 April 2021: our paper entitled "Keeping it Real or Bridging the Gap? Brand Positioning of US Sport Teams in Germany and China" was accepted by Journal of Sport Management.
 - 05 May 2021: our paper entitled "Determinants of Fitness App Usage and Moderating Impacts of Education-, Motivation-, and Gamification-Related App Features on Physical Activity Intentions: Cross-sectional Survey Study" was accepted by Journal of Medical Internet Research.
+
+Contact
+======
+- Email: yanxiang.yang(at)tum.de
+- Phone: +49.89.289.24569
+- Address: Georg-Brauchle-Ring 60/62, 80992 Munich, Germany
+
+
+
+
