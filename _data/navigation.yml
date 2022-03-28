@@ -10,11 +10,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
         
-  - title: "Training"
-    url: /year-archive/
-    
-  - title: "Awards & Memberships"
+  - title: "CV"
     url: /cv/
     
-  - title: "CV"
-    url: /posts/
+  - title: "Training & Membership & Awards"
+    url: /year-archive/
