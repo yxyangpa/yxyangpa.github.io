@@ -30,11 +30,11 @@ Updated: 2022-03-31
 ## PhD training activities
 
 ### TUM School of Management
-* Nov 04, 2021 - Dec 21, 2021: PhD course - Basic Neuroscience for Organisational Research and Economics. By Dr. Franziska Emmerling (TUM).
-* June 28, 2021 - Jul 29, 2021: PhD course - Behavioral and Experimental Economics. By Prof. Michael Kurschilgen (TUM).
-* May 10, 2021 - June 14, 2021: PhD course - Psychological Theories. By Prof. Claudia Peus (TUM).
-* Oct/20 – Feb/2021: PhD Course - Mastering the Review Process: Writing of and Responding to Peer-Reviews. By Prof. Dr. Jens Förderer (TUM).
-* Oct/20 – Feb/2021: PhD Course - Economics of Aging. By Prof. Axel Börsch-Supan, Max Planck Institute for Social Law and Social Policy.
+* Nov 04, 2021 - Dec 21, 2021: PhD course - [Basic Neuroscience for Organisational Research and Economics](https://www.wi.tum.de/wp-content/uploads/2016/09/Syllabus_basicNS2021.pdf). By Dr. Franziska Emmerling (TUM).
+* June 28, 2021 - Jul 29, 2021: PhD course - [Behavioral and Experimental Economics](https://www.wi.tum.de/wp-content/uploads/2016/09/Syllabus_BehavExpEcon_210329.pdf). By Prof. Michael Kurschilgen (TUM).
+* May 10, 2021 - June 14, 2021: PhD course - [Psychological Theories](https://www.wi.tum.de/wp-content/uploads/2016/09/Syllabus_Psychological-Theories_Fall2021.pdf). By Prof. Claudia Peus (TUM).
+* Oct/20 – Feb/2021: PhD Course - [Mastering the Review Process: Writing of and Responding to Peer-Reviews](https://www.wi.tum.de/wp-content/uploads/2016/09/Syllabus_Mastering-the-Review-Process_update.pdf). By Prof. Dr. Jens Förderer (TUM).
+* Oct/20 – Feb/2021: PhD Course - [Economics of Aging](https://www.wi.tum.de/wp-content/uploads/2016/09/Syllabus_Economics_of_Aging.pdf). By Prof. Axel Börsch-Supan, Max Planck Institute for Social Law and Social Policy.
 * Jul 16, 2020: Research Seminar - Recalls and innovation: Own and competitor firm response. By Dr. Ariel D. Stern (Harvard Business School).
 * Jul 02, 2020: Research Seminar - Freemium Killer Apps: Business Model Competition and the performance of digital PC games on steam. By Dr. Joost Rietveld (UCL).
 * May 20, 2020: Webinar - Research Data Management. By Hedwig Bäcker (TUM).
