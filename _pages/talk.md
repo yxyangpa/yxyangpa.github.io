@@ -14,7 +14,7 @@ author_profile: true
 
 ## NASSM
 
-* June 03, 2022: Accuracy of a Prediction Model of Transfer Fees for European Soccer Players Traded during the COVID-19 Pandemic. The North American Society for Sport Management. Atlanta, GA, USA.
+* June 03, 2022: "Accuracy of a Prediction Model of Transfer Fees for European Soccer Players Traded during the COVID-19 Pandemic". The North American Society for Sport Management. Atlanta, GA, USA.
 
 ## Innsbrucker Sport Economics and Management Symposiums
 
