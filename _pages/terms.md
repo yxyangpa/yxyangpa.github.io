@@ -8,9 +8,10 @@ Updated: 2022-03-31
 
 ## Academic Membership
 
-* June, 2021	Student Member of North American Society for Sport Management
-* Jan, 2020	Student Member of European Association for Sport Management
-* Aug/20 - Aug/2022	Student Member of China Sport Science Society – Section of Sport Management
+* Jan 2020 - Now: Student Member of European Association for Sport Management (EASM)
+* June 2021 - Now: Student Member of North American Society for Sport Management (NASSM)
+* Jan 2022 - Now: dvs-Mentoring Programm (German Society of Sport Science); Mentor: Prof. Sebastian Uhrich, DSHS
+* Aug/20 - Aug/2022	Student Member of China Sport Science Society (Section of Sport Management)
 
 ## Honors and Awards
 
