@@ -14,7 +14,7 @@ I earned my B.M. in Management at [Shanghai University](https://www.shu.edu.cn/)
 
 I specialize in Sport Management, Gamification, Mobile Health, and Physical Activity. Here is my [CV](https://github.com/yxyangpa/yxyangpa.github.io/files/paper1.pdf).
 
-## Updates
+## <font color="0065bd">Updates</font> 
 
 - Since 12 April 2022: I will have a 6-month visiting stay at the [Sport Industry Research Center](https://sthm.temple.edu/sport-industry-research-center/), Temple University.
 - 22 March 2022: our paper entitled "The effects of a lifestyle intervention supported by the InterWalk smart-phone application on increasing physical activity among persons with type 2 diabetes: A parallel-group, randomized trial" was accepted by JMIR mHealth and uHealth.
