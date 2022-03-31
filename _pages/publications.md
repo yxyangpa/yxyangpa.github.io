@@ -15,7 +15,7 @@ My research interests focus on two main streams: (i) sport management and (ii) G
 ## Sport Management
 
 * <b>Yanxiang Yang</b>, Tim Pawlowski, and Joerg Koenigstorfer (Under review in ESMQ). Predicting transfer fees in professional European football before and during COVID-19.
-* Anton Behrens, <b>Yanxiang Yang</b>, and Sebastian Uhrich (2022). [Keeping It Real or Bridging the Gap? Brand Positioning of US Sport Teams in Germany and China](https://journals.humankinetics.com/view/journals/jsm/36/2/article-p105.xml). Journal of Sport Management. 36(2): P105-117
+* Anton Behrens, <b>Yanxiang Yang</b>, and Sebastian Uhrich (2022). [Keeping It Real or Bridging the Gap? Brand Positioning of US Sport Teams in Germany and China](https://journals.humankinetics.com/view/journals/jsm/36/2/article-p105.xml). <i>Journal of Sport Management</i>. 36(2): P105-117
 
 ## Gamification, mHealth, and Physical Activity
 
