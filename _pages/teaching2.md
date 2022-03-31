@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 
-EASM
+Teaching
 ======
-* 2021 Sep 29: <b>Yanxiang Yang</b> & Joerg Koenigstorfer. Determinants of transfer fees in professional European soccer. The European Association for Sport Management Festival (Virtual). (Oral presentation)
-* 2020 Sep 23: <b>Yanxiang Yang</b> & Joerg Koenigstorfer (2020). Pathways of how fitness apps increase physical activity. The 28th European Sport Management Virtual Conference. (Oral presentation)
+* 2021WS: <b>Yanxiang Yang</b>. Sponsorship-linked Marketing. E-tutor for online course. TUM Faculty of Sport and Health Sciences
+* 2020WS: <b>Yanxiang Yang</b>. Research Methods in Sport Management with Application of R. For 5th semester students of B.Sc. Sport Science (n=17). TUM Faculty of Sport and Health Sciences
