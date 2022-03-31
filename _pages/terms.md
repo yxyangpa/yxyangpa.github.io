@@ -20,11 +20,11 @@ Updated: 2022-03-31
 * 2016:	Shanghai Tennis Competition for College Students: Men’s team bronze medal, East China University of Science and Technology Division
 
 ## Funding
-* April 2022 - October 2022: EU Horizon 2020 programme [EventRights](http://eventrights.net/), Research and Innovation Staff Exchange. 12,600 EUR mobility funding and 10,800 EUR research funding (PI: Prof. Jörg Königstorfer).
-* September 2021: Gewährung einer leistungsprämie (Der Präsident), Technical University of Munich. 2,335 EUR.
-* Sep 2018 - Mar 2019: Danish Government Scholarship: The long-term Danish Government Scholarships under Cultural Agreements with China Scholarship Council. 60,000 DKK
-* May 2018 - Aug 2018: DAAD Scholar: German short-term scholarships for master students. 3,100 EUR
-* 2016 - 2019	First-class Scholarship for Academic Excellence (3 consecutive years), Shanghai Jiao Tong University. 54,000 RMB (18,000 * 3)
+* Apr 2022 - October 2022: EU Horizon 2020 programme [EventRights](http://eventrights.net/), Research and Innovation Staff Exchange. 12,600 EUR mobility funding and 10,800 EUR research funding (PI: Prof. Jörg Königstorfer).
+* Sep 2021: Gewährung einer leistungsprämie (Der Präsident), Technical University of Munich. 2,335 EUR.
+* Sep 2018 - Mar 2019: The long-term Danish Government Scholarships under Cultural Agreements with China Scholarship Council. 60,000 DKK
+* May 2018 - Aug 2018: DAAD German short-term scholarships for master students. 3,100 EUR
+* 2016 - 2019:	First-class Scholarship for Academic Excellence (3 consecutive years), Shanghai Jiao Tong University. 54,000 RMB (18,000*3)
 
 
 ## PhD training activities
