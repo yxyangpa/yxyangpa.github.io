@@ -8,6 +8,10 @@ author_profile: true
 {% include base_path %}
 
 
+## Research summary
+My research interests focus on two main streams: (i) sport management and (ii) Gamification, mHealth, and Physical Activity.
+
+
 ## Sport Management
 
 * <b>Yanxiang Yang</b>, Tim Pawlowski, and Joerg Koenigstorfer (Under review). Predicting transfer fees in professional European football before and during COVID-19.
