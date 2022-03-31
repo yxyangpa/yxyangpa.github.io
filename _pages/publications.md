@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-## Research summary
+## Research Summary
 My research interests focus on two main streams: (i) sport management and (ii) Gamification, mHealth, and Physical Activity.
 
 
