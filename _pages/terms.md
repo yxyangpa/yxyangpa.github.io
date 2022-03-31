@@ -30,36 +30,31 @@ Updated: 2022-03-31
 ## PhD training activities
 
 ### TUM School of Management
+* Nov 04, 2021 - Dec 21, 2021: PhD course - Basic Neuroscience for Organisational Research and Economics. By Dr. Franziska Emmerling (TUM).
+* June 28, 2021 - Jul 29, 2021: PhD course - Behavioral and Experimental Economics. By Prof. Michael Kurschilgen (TUM).
+* May 10, 2021 - June 14, 2021: PhD course - Psychological Theories. By Prof. Claudia Peus (TUM).
+* Oct/20 – Feb/2021: PhD Course - Mastering the Review Process: Writing of and Responding to Peer-Reviews. By Prof. Dr. Jens Förderer (TUM).
+* Oct/20 – Feb/2021: PhD Course - Economics of Aging. By Prof. Axel Börsch-Supan, Max Planck Institute for Social Law and Social Policy.
+* Jul 16, 2020: Research Seminar - Recalls and innovation: Own and competitor firm response. By Dr. Ariel D. Stern (Harvard Business School).
+* Jul 02, 2020: Research Seminar - Freemium Killer Apps: Business Model Competition and the performance of digital PC games on steam. By Dr. Joost Rietveld (UCL).
+* May 20, 2020: Webinar - Research Data Management. By Hedwig Bäcker (TUM).
 
-* Oct/20 – Feb/2021: PhD Course - Mastering the Review Process: Writing of and Responding to Peer-Reviews. By Prof. Dr. Jens Förderer (TUM). Organized by TUM School of Management
-* Oct/20 – Feb/2021: PhD Course - Economics of Aging. By Prof. Axel Börsch-Supan, Max Planck Institute for Social Law and Social Policy. Organized by TUM School of Management
-* Sep – Dec, 2020: Seminar Series Weekly - Consumer Behavior, Marketing and Society. By Katherine Milkman (Wharton) etc. Organized by Penn-Wharton Behavior Change for Good Initiative
-* Aug 14, 2020: Virtual Workshop - Grant Writing Workshop in Sport Management. By Tracy Taylor, Heath McDonald (RMIT). Organized by SMAANZ
-* Aug 03, 2020: Virtual Workshop - Advanced Measurement and Research Design. By Charles Hofacker (Loyola Marymount University). Organized by American Marketing Association
-* Jul 16, 2020: Research Seminar - Recalls and innovation: Own and competitor firm response. By Dr. Ariel D. Stern (Harvard Business School). Organized by TUM School of Management
-* Jul 02, 2020: Research Seminar - Freemium Killer Apps: Business Model Competition and the performance of digital PC games on steam. By Dr. Joost Rietveld (UCL). Organized by TUM School of Management
-* Jun 15-16, 2020: International Conference - Prospective Physical Activity, Sitting and Sleep consortium (ProPASS) 3rd Annual Meeting (Zoom). Organized by University of Sydney
-* Jun 03, 2020: Doctoral Colloquium - Shared Leadership as an Emergent Team Phenomenon in High Performance Sports Teams. By Christopher Mächel (TUM). Organized by TUM Faculty of Sport and Health Sciences
-* May 20, 2020: Webinar - Research Data Management. By Hedwig Bäcker. Organized by TUM Library
-* Feb 19, 2020: Webinar - Behavior Change Guide for Local Government & Partners. By Dr. Susan Michie. Organized by UCL Centre for Behavior Change and Public Health England
-* Nov 29-30, 2019:	Workshop - Latent Class Analysis. By Dr. Jörg Heine (TUM). Organized by TUM Faculty of Sport and Health Sciences
-* Nov 21, 2019: Sensorimotor Colloquium - Fitness tracker: yet another consumer trend or valid tool for assessment of physical activity and health status in health care. By Dr. Alexander Tallner (Univ. Erlangen–Nuremberg). Organized by TUM Faculty of Sport and Health Sciences
 
 ### TUM Faculty of Sport and Health Sciences
+* Mar 23, 2022: Health Science Talks - The potential of quasi-experimental designs in health research: concepts and applied examples. By Prof. Michael Laxy  (TUM).
+* Jan 26, 2022: Health Science Talks - P-Values: Common Misconceptions and Alternatives. By Dr. Gunther Schauberger (TUM).
+* Aug 12, 2021: Doctoral Colloquium - ntegrating Nutrition and Exercise Across the Physical Activity Spectrum: From Metabolic Health to Athletic Performance. By Prof. Karsten Köhler (TUM).
+* Jul 21, 2021: Doctoral Colloquium - Educating Children and Adolescents towards an Active and Healthy Lifestyle. By Prof. Yolanda Demetriou (TUM).
+* Jun 03, 2020: Doctoral Colloquium - Shared Leadership as an Emergent Team Phenomenon in High Performance Sports Teams. By Christopher Mächel (TUM).
+* Nov 29-30, 2019:	Workshop - Latent Class Analysis. By Dr. Jörg Heine (TUM).
+* Nov 21, 2019: Doctoral Colloquium - Fitness tracker: yet another consumer trend or valid tool for assessment of physical activity and health status in health care. By Dr. Alexander Tallner (Univ. Erlangen–Nuremberg).
 
-* Oct/20 – Feb/2021: PhD Course - Mastering the Review Process: Writing of and Responding to Peer-Reviews. By Prof. Dr. Jens Förderer (TUM). Organized by TUM School of Management
-* Oct/20 – Feb/2021: PhD Course - Economics of Aging. By Prof. Axel Börsch-Supan, Max Planck Institute for Social Law and Social Policy. Organized by TUM School of Management
-* Sep – Dec, 2020: Seminar Series Weekly - Consumer Behavior, Marketing and Society. By Katherine Milkman (Wharton) etc. Organized by Penn-Wharton Behavior Change for Good Initiative
-* Aug 14, 2020: Virtual Workshop - Grant Writing Workshop in Sport Management. By Tracy Taylor, Heath McDonald (RMIT). Organized by SMAANZ
-* Aug 03, 2020: Virtual Workshop - Advanced Measurement and Research Design. By Charles Hofacker (Loyola Marymount University). Organized by American Marketing Association
-* Jul 16, 2020: Research Seminar - Recalls and innovation: Own and competitor firm response. By Dr. Ariel D. Stern (Harvard Business School). Organized by TUM School of Management
-* Jul 02, 2020: Research Seminar - Freemium Killer Apps: Business Model Competition and the performance of digital PC games on steam. By Dr. Joost Rietveld (UCL). Organized by TUM School of Management
-* Jun 15-16, 2020: International Conference - Prospective Physical Activity, Sitting and Sleep consortium (ProPASS) 3rd Annual Meeting (Zoom). Organized by University of Sydney
-* Jun 03, 2020: Doctoral Colloquium - Shared Leadership as an Emergent Team Phenomenon in High Performance Sports Teams. By Christopher Mächel (TUM). Organized by TUM Faculty of Sport and Health Sciences
-* May 20, 2020: Webinar - Research Data Management. By Hedwig Bäcker. Organized by TUM Library
-* Feb 19, 2020: Webinar - Behavior Change Guide for Local Government & Partners. By Dr. Susan Michie. Organized by UCL Centre for Behavior Change and Public Health England
-* Nov 29-30, 2019:	Workshop - Latent Class Analysis. By Dr. Jörg Heine (TUM). Organized by TUM Faculty of Sport and Health Sciences
-* Nov 21, 2019: Sensorimotor Colloquium - Fitness tracker: yet another consumer trend or valid tool for assessment of physical activity and health status in health care. By Dr. Alexander Tallner (Univ. Erlangen–Nuremberg). Organized by TUM Faculty of Sport and Health Sciences
-
-
+### External
+* Oct 21, 2021: Webinar - From behavior change theory to interventions and their implementation - what is needed to promote physical activity?. Organized by Prof. Claudio Nigg, University of Bern.
+* Mar 15, 2021: Kolloquium - Precision behavioral interventions to promote physical activity. By Prof. David Conroy (Penn State). Organized by University of Bern.
+* Sep – Dec, 2020: Seminar Series Weekly - Consumer Behavior, Marketing and Society. By Katherine Milkman (Wharton) etc. Organized by Penn-Wharton Behavior Change for Good Initiative.
+* Aug 14, 2020: Virtual Workshop - Grant Writing Workshop in Sport Management. By Tracy Taylor, Heath McDonald (RMIT). Organized by SMAANZ.
+* Aug 03, 2020: Virtual Workshop - Advanced Measurement and Research Design. By Charles Hofacker (Loyola Marymount University). Organized by American Marketing Association.
+* Jun 15-16, 2020: International Conference - Prospective Physical Activity, Sitting and Sleep consortium (ProPASS) 3rd Annual Meeting (Zoom). Organized by University of Sydney.
+* Feb 19, 2020: Webinar - Behavior Change Guide for Local Government & Partners. By Dr. Susan Michie. Organized by UCL Centre for Behavior Change and Public Health England.
 
