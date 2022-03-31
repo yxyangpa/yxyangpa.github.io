@@ -34,8 +34,4 @@ I specialize in Sport Management, Gamification, Mobile Health, and Physical Acti
 * E: yanxiang.yang(at)tum.de
 * P: +49.89.289.24569
 * Georg-Brauchle-Ring 60/62, 80992 Munich, Germany
-* 
-
-
-
 
