@@ -8,5 +8,5 @@ author_profile: true
 
 {% include base_path %}
 
-Here is my [CV](http://yxyangpa.github.io/files/CV_Yang.pdf)
+Here is my [CV](http://yxyangpa.github.io/files/paper4.pdf)
 
