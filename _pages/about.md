@@ -21,6 +21,7 @@ I specialize in Sport Management, Gamification, Mobile Health, and Physical Acti
 
 * Since April 12, 2022: I will have a 6-month visiting stay at the Sport Industry Research Center of Temple University, with Prof. Thilo Kunkel and Prof. Daniel Funk.
 * March 22, 2022: our paper entitled "The effects of a lifestyle intervention supported by the InterWalk smart-phone application on increasing physical activity among persons with type 2 diabetes: A parallel-group, randomized trial" was accepted by JMIR mHealth and uHealth.
+* January 27, 2022: I joined the "dvs-Mentoring Programm for Young Scientists" of the German Society of Sport Science, with Prof. Sebastian Uhrich from German Sport University as my mentor.
 * October 20, 2021: our paper entitled "Effects of Gamified Smartphone Applications on Physical Activity: A Systematic Review and Meta-Analysis" was accepted by American Journal of Preventive Medicine.
 * April 01, 2021: our paper entitled "Keeping it Real or Bridging the Gap? Brand Positioning of US Sport Teams in Germany and China" was accepted by Journal of Sport Management.
 * May 05, 2021: our paper entitled "Determinants of Fitness App Usage and Moderating Impacts of Education-, Motivation-, and Gamification-Related App Features on Physical Activity Intentions: Cross-sectional Survey Study" was accepted by Journal of Medical Internet Research.
