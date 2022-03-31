@@ -6,9 +6,6 @@ author_profile: true
 ---
 
 
-{% include base_path %}
-
-
 EASM
 ======
 * 2021 Sep 29: <b>Yanxiang Yang</b> & Joerg Koenigstorfer. Determinants of transfer fees in professional European soccer. The European Association for Sport Management Festival (Virtual). (Oral presentation)
