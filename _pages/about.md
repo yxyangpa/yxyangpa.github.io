@@ -12,7 +12,7 @@ I am currently a PhD candidate at the [Chair of Sport and Health Management](htt
 
 I earned my B.M. in Management at [Shanghai University](https://www.shu.edu.cn/) in 2013 and M.Sc. in Sport Science at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2019, China. During my Masters' degree, I spent 3 months at [German Sport University Cologne](https://www.dshs-koeln.de/), granted by [DAAD](https://www.daad.org.cn/zh/find-funding/funding-programmes-in-germany/master-short-term-scholarship). I also spent 6 months at the [Centre for Physical Activity Research](https://aktivsundhed.dk/da/) of [University of Copenhagen](https://www.ku.dk/english/), jointly granted by the [CSC and Danish Government Scholarship](https://www.csc.edu.cn/chuguo).
 
-I specialize in Sport Management, Gamification, Mobile Health, and Physical Activity.
+I specialize in Sport Management, Gamification, Mobile Health, and Physical Activity. Here is my [CV](files/TBM 2020.pdf).
 * Sport consumer behavior and team sports
 * Gamification and gamified fitness
 * Mobile health and physical activity
