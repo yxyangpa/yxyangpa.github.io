@@ -29,7 +29,7 @@ Updated: 2022-03-31
 
 ## PhD training activities
 
-# TUM School of Management
+### TUM School of Management
 
 * Oct/20 – Feb/2021: PhD Course - Mastering the Review Process: Writing of and Responding to Peer-Reviews. By Prof. Dr. Jens Förderer (TUM). Organized by TUM School of Management
 * Oct/20 – Feb/2021: PhD Course - Economics of Aging. By Prof. Axel Börsch-Supan, Max Planck Institute for Social Law and Social Policy. Organized by TUM School of Management
@@ -45,7 +45,7 @@ Updated: 2022-03-31
 * Nov 29-30, 2019:	Workshop - Latent Class Analysis. By Dr. Jörg Heine (TUM). Organized by TUM Faculty of Sport and Health Sciences
 * Nov 21, 2019: Sensorimotor Colloquium - Fitness tracker: yet another consumer trend or valid tool for assessment of physical activity and health status in health care. By Dr. Alexander Tallner (Univ. Erlangen–Nuremberg). Organized by TUM Faculty of Sport and Health Sciences
 
-# TUM Faculty of Sport and Health Sciences
+### TUM Faculty of Sport and Health Sciences
 
 * Oct/20 – Feb/2021: PhD Course - Mastering the Review Process: Writing of and Responding to Peer-Reviews. By Prof. Dr. Jens Förderer (TUM). Organized by TUM School of Management
 * Oct/20 – Feb/2021: PhD Course - Economics of Aging. By Prof. Axel Börsch-Supan, Max Planck Institute for Social Law and Social Policy. Organized by TUM School of Management
