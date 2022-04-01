@@ -13,7 +13,7 @@ I am currently a PhD candidate at [Chair of Sport and Health Management](https:/
 I earned my B.M. in Management at [Shanghai University](https://www.shu.edu.cn/) in 2013 and M.Sc. in Sport Science at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2019, China. During my Masters' degree, I spent 3 months at [German Sport University Cologne](https://www.dshs-koeln.de/), granted by [DAAD](https://www.daad.org.cn/zh/find-funding/funding-programmes-in-germany/master-short-term-scholarship). I also spent 6 months at [Centre for Physical Activity Research](https://aktivsundhed.dk/da/) of [University of Copenhagen](https://www.ku.dk/english/), jointly granted by [CSC and Danish Government Scholarship](https://www.csc.edu.cn/chuguo).
 
 ## Research Interests
-I specialize in the use of gamification and gamified fitness (Apps) in sport and physical activity management.
+I specialize in gamification and gamified fitness (Apps) in sport and physical activity management.
 * Sport Management
 * Gamification and Gamified Fitness
 * mHealth
