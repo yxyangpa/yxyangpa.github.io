@@ -1,16 +1,16 @@
 # main links links
 main:
     
-  - title: "Publications"
+  - title: "PUBLICATIONS"
     url: /publications/
 
-  - title: "Talks"
+  - title: "TALKS"
     url: /talk/    
 
-  - title: "Teaching"
+  - title: "TEACHING"
     url: /teaching2/    
   
-  - title: "Training & Awards"
+  - title: "TRAINING"
     url: /terms/
     
   - title: "CV"
