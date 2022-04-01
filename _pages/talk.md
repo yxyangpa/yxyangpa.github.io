@@ -21,3 +21,6 @@ author_profile: true
 * March 03, 2022: "Predicting transfer fees in European professional football before and during COVID-19". The 11. Innsbrucker Sportökonomie und -Management Symposium. University of Innsbruck, Innsbruck, Austria.
 * March 04, 2021: "Effects of gamified smartphone apps on physical activity: A systematic review and meta-analysis". The 10. Innsbrucker Sportökonomie und -Management Symposium (Virtual).
 
+## Others
+* Jan 20, 2021: ["Gamification in smartphone apps for physical activity"](https://www.mpisoc.mpg.de/veranstaltungen/detail/event/mea-seminar/). Munich Center for the Economics of Aging, Max Planck Institute for Social Law and Social Policy (Virtual).
+
