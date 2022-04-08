@@ -37,4 +37,4 @@ I specialize in gamification and gamified fitness (Apps) in sport and physical a
 * <b>Phone</b>: +49 089 289 24569
 * <b>Address</b>: Campus D Uptown Munich, Georg-Brauchle-Ring 60/62, 80992 Munich, Germany
 
-Acknowledgement: TUMBlue color (#0065bd).
+Acknowledgement: TUMBlue (#0065bd) and TUM logo.
