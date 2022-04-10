@@ -33,7 +33,7 @@ I specialize in gamification and gamified (team sports & fitness) apps in sport 
 
 ## Contact
 
-* <b>Email</b>: yanxiang.yang(at)tum.de
+* <b>Email</b>: yanxiang.yang(at)tum(dot)de
 * <b>Phone</b>: +49 089 289 24569
 * <b>Address</b>: Campus D Uptown Munich, Georg-Brauchle-Ring 60/62, 80992 Munich, Germany
 
