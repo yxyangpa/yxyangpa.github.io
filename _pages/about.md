@@ -21,14 +21,14 @@ I specialize in gamification and gamified (team sports & fitness) apps in sport 
 
 ## Updates
 
-* Since Apr. 12, 2022: I will be staying as a visiting PhD student for 6 months at the Sport Industry Research Center of Temple University, USA, with Prof. Thilo Kunkel and Prof. Daniel Funk.
-* Mar. 22, 2022: our paper entitled "The effects of a lifestyle intervention supported by the InterWalk smart-phone application on increasing physical activity among persons with type 2 diabetes: A parallel-group, randomized trial" was accepted by JMIR mHealth and uHealth.
-* Jan. 27, 2022: I joined the "dvs-Mentoring Programm for Young Scientists" of the German Society of Sport Science, with Prof. Sebastian Uhrich from German Sport University as my mentor.
-* Oct. 20, 2021: our paper entitled "Effects of Gamified Smartphone Applications on Physical Activity: A Systematic Review and Meta-Analysis" was accepted by American Journal of Preventive Medicine.
-* Apr. 01, 2021: our paper entitled "Keeping it Real or Bridging the Gap? Brand Positioning of US Sport Teams in Germany and China" was accepted by Journal of Sport Management.
-* May 05, 2021: our paper entitled "Determinants of Fitness App Usage and Moderating Impacts of Education-, Motivation-, and Gamification-Related App Features on Physical Activity Intentions: Cross-sectional Survey Study" was accepted by Journal of Medical Internet Research.
-* Aug. 04, 2020: our paper entitled "Determinants of physical activity maintenance during the Covid-19 pandemic: a focus on fitness apps" was accepted by Translational Behavioral Medicine.
-* Nov. 06, 2019: I started as a PhD student and research assitant at the Chair of Sport and Health Management of TUM.
+* 04/12/2022: I will be staying as a visiting PhD student for 6 months at the Sport Industry Research Center of Temple University, USA, with Prof. Thilo Kunkel and Prof. Daniel Funk.
+* 03/22/2022: our paper entitled "The effects of a lifestyle intervention supported by the InterWalk smart-phone application on increasing physical activity among persons with type 2 diabetes: A parallel-group, randomized trial" was accepted by JMIR mHealth and uHealth.
+* 01/27/2022: I joined the "dvs-Mentoring Programm for Young Scientists" of the German Society of Sport Science, with Prof. Sebastian Uhrich from German Sport University as my mentor.
+* 10/20/2021: our paper entitled "Effects of Gamified Smartphone Applications on Physical Activity: A Systematic Review and Meta-Analysis" was accepted by American Journal of Preventive Medicine.
+* 04/01/2021: our paper entitled "Keeping it Real or Bridging the Gap? Brand Positioning of US Sport Teams in Germany and China" was accepted by Journal of Sport Management.
+* 05/05/2021: our paper entitled "Determinants of Fitness App Usage and Moderating Impacts of Education-, Motivation-, and Gamification-Related App Features on Physical Activity Intentions: Cross-sectional Survey Study" was accepted by Journal of Medical Internet Research.
+* 08/04/2020: our paper entitled "Determinants of physical activity maintenance during the Covid-19 pandemic: a focus on fitness apps" was accepted by Translational Behavioral Medicine.
+* 11/06/2019: I started as a PhD student and research assitant at the Chair of Sport and Health Management of TUM.
 
 
 ## Contact
