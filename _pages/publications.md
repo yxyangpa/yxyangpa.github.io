@@ -9,7 +9,7 @@ author_profile: true
 
 
 ## Research Summary
-My research interests, in general, focus on two main streams: gamification and sport management. 
+My general research interests focus on two main streams: gamification and sport management. 
 * My first research stream, gamification, focuses on gamification (re-definition in sport & health contexts) and gamified smartphone apps (acceptance & adoption, effectiveness) in consumers' physical activity and team sports experience. 
 * My second research stream, sport management, focuses on deploying advanced machine learning approach to investigate team sport clubs' activities (transfer market, performance).
 
