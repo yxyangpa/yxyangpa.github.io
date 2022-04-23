@@ -28,6 +28,7 @@ Updated: 2022-03-31
 
 ## Ad-hoc reveiwer
 * Journal of Global Sport Management (with supervisor)
+* Journal of Promotion Management (with supervisor)
 * Journal of Medical Internet Research
 * JMIR mHealth and uHealth
 * International Journal of Human-Computer Interaction
