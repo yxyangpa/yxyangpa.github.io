@@ -30,7 +30,6 @@ Updated: 2022-03-31
 * European Sport Management Quarterly (1)
 * Journal of Global Sport Management (1, with supervisor)
 * Journal of Promotion Management (1, with supervisor)
-
 * Journal of Medical Internet Research (3)
 * JMIR mHealth and uHealth (4)
 * International Journal of Human-Computer Interaction (1)
