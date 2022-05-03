@@ -27,15 +27,18 @@ Updated: 2022-03-31
 * _09/2016 - 06/2019_:	First-class Scholarship for Academic Excellence (3 consecutive years), Shanghai Jiao Tong University. 54,000 RMB (18,000*3)
 
 ## Ad-hoc reveiwer
-* Journal of Global Sport Management (with supervisor)
-* Journal of Promotion Management (with supervisor)
-* Journal of Medical Internet Research
-* JMIR mHealth and uHealth
-* International Journal of Human-Computer Interaction
+* European Sport Management Quarterly (1)
+* Journal of Global Sport Management (1, with supervisor)
+* Journal of Promotion Management (1, with supervisor)
+
+* Journal of Medical Internet Research (3)
+* JMIR mHealth and uHealth (4)
+* International Journal of Human-Computer Interaction (1)
 
 ## PhD training activities
 
 ### TUM School of Management
+* _05/05/2022_: TUM Research Seminar "Value and Complexity in New Ventures". By Prof. Andy Wu (Harvard Business School).
 * _11/04/2021 - 12/21/2021_: PhD course [Basic Neuroscience for Organisational Research and Economics](https://www.wi.tum.de/wp-content/uploads/2016/09/Syllabus_basicNS2021.pdf). By Dr. Franziska Emmerling (TUM).
 * _06/28/2021 - 07/29/2021_: PhD course [Behavioral and Experimental Economics](https://www.wi.tum.de/wp-content/uploads/2016/09/Syllabus_BehavExpEcon_210329.pdf). By Prof. Michael Kurschilgen (TUM).
 * _05/10/2021 - 06/14/2021_: PhD course [Psychological Theories](https://www.wi.tum.de/wp-content/uploads/2016/09/Syllabus_Psychological-Theories_Fall2021.pdf). By Prof. Claudia Peus (TUM).
@@ -47,6 +50,7 @@ Updated: 2022-03-31
 
 
 ### TUM Faculty of Sport and Health Sciences
+* _05/11/2022_: Lecture "Grasping the virtual world". By Dr. Gavin Buckingham (University of Exeter, UK).
 * _03/23/2022_: Health Science Talks "The potential of quasi-experimental designs in health research: concepts and applied examples". By Prof. Michael Laxy  (TUM).
 * _01/26/2022_: Health Science Talks "P-Values: Common Misconceptions and Alternatives". By Dr. Gunther Schauberger (TUM).
 * _08/12/2021_: Doctoral Colloquium "tegrating Nutrition and Exercise Across the Physical Activity Spectrum: From Metabolic Health to Athletic Performance". By Prof. Karsten Köhler (TUM).
