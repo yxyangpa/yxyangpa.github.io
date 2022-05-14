@@ -16,7 +16,7 @@ main:
   - title: "CV"
     url: /cv2/
     
-  - title: "LINKS"
-    url: /Links/
+  - # title: "LINKS"
+    # url: /Links/
     
     
