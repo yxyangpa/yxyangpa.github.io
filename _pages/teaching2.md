@@ -9,7 +9,7 @@ author_profile: true
 
 ## Teaching
 
-* _2021WS_: "Sponsorship-linked Marketing". E-tutor for online course. TUM Faculty of Sport and Health Sciences
+* _2021WS_: "Sponsorship-linked Marketing". E-tutor for online course. TUM School of Management
 * _2020WS_: "Research Methods in Sport Management with Application of R". B.Sc. Sport Science. TUM Faculty of Sport and Health Science
 
 ## Thesis Supervision
