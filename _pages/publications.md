@@ -8,16 +8,9 @@ author_profile: true
 {% include base_path %}
 
 
-## Research Summary
-My general research interests focus on two main streams: gamification and sport management. 
-* <i>Gamification</i>: My research focuses on gamification (re-definition in sport & health contexts) and gamified smartphone apps (acceptance & adoption, effectiveness) in consumers' physical activity and team sports experience. 
-* <i>Sport management</i>: My research focuses on deploying advanced machine learning approach to investigate team sport clubs' activities (transfer market, performance).
+## Sport Management, Machine Learning
 
-
-## Sport Management
-
-* <b>Yanxiang Yang</b>, Terri Byers, and Joerg Koenigstorfer (Work in progress). Determinants of the Performance of Not-for-profit Sport Clubs: 
-A Machine Learning Approach.
+* <b>Yanxiang Yang</b>, Terri Byers, and Joerg Koenigstorfer (Work in progress). Performance of Not-for-profit Sport Clubs: A Machine Learning Approach.
 * <b>Yanxiang Yang</b>, Tim Pawlowski, and Joerg Koenigstorfer (2nd round review in ESMQ). Predicting transfer fees in professional European football before and during COVID-19.
 * Anton Behrens, <b>Yanxiang Yang</b>, and Sebastian Uhrich (2022). [Keeping it real or bridging the gap? Brand positioning of US sport teams in Germany and China](https://journals.humankinetics.com/view/journals/jsm/36/2/article-p105.xml). <i>Journal of Sport Management</i>. 36(2): P105-117
 
