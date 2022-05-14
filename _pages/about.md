@@ -13,8 +13,9 @@ I am currently a PhD candidate at [Chair of Sport and Health Management](https:/
 I earned my B.M. in Management at [Shanghai University](https://www.shu.edu.cn/) in 2013 and M.Sc. in Sport Science at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2019, supervised by Professor [Sulin Cheng](https://www.researchgate.net/profile/Sulin-Cheng). During my Masters' degree, I spent 3 months at [German Sport University Cologne](https://www.dshs-koeln.de/), granted by [DAAD](https://www.daad.org.cn/zh/find-funding/funding-programmes-in-germany/master-short-term-scholarship). I also spent 6 months at [Centre for Physical Activity Research](https://aktivsundhed.dk/da/) of [University of Copenhagen](https://www.ku.dk/english/) with Dr. [Mathias Ried-Larsen](https://aktivsundhed.dk/da/om/personer/item/mathias-ried-larsen), jointly granted by [CSC and Danish Government Scholarship](https://www.csc.edu.cn/chuguo).
 
 ## Research Interests
-I specialize in gamification and gamified (fitness & team sports) smartphone apps in physical activity and sport management.
+My general research interests focus on sport consumer behavior and physical activity. I specialize in consumer behavior of gamification and gamified (sport & fitness) smartphone apps. I am also interested in deploying advanced machine learning approach to investigate team sport club activities (e.g., transfer market, performance).
 * Sport Management
+* Sport Consumer Behavior
 * Gamification
 * mHealth
 * Physical Activity
