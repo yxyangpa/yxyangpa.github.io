@@ -8,13 +8,13 @@ author_profile: true
 {% include base_path %}
 
 
-## Sport Management, Machine Learning
+## Sport Management (Machine Learning)
 
 * <b>Yanxiang Yang</b>, Terri Byers, and Joerg Koenigstorfer (Work in progress). Performance of Not-for-profit Sport Clubs: A Machine Learning Approach.
 * <b>Yanxiang Yang</b>, Tim Pawlowski, and Joerg Koenigstorfer (2nd round review in ESMQ). Predicting transfer fees in professional European football before and during COVID-19.
 * Anton Behrens, <b>Yanxiang Yang</b>, and Sebastian Uhrich (2022). [Keeping it real or bridging the gap? Brand positioning of US sport teams in Germany and China](https://journals.humankinetics.com/view/journals/jsm/36/2/article-p105.xml). <i>Journal of Sport Management</i>. 36(2): P105-117
 
-## Gamification, mHealth, and Physical Activity
+## Gamification (mHealth, Physical Activity)
 
 * Ida Kær Thorsen, <b>Yanxiang Yang</b>, Laura Staun Valentiner, Charlotte Glümer, Kristian Karstoft, Jan Christian Brønd, Rasmus Østergaard Nielsen, Charlotte Brøns, Robin Christensen, Jens Steen Nielsen, Allan Vaag, Bente Klarlund Pedersen, Henning Langberg, Mathias Ried-Larsen (2022). [The effects of a lifestyle intervention supported by the InterWalk smart-phone application on increasing physical activity among persons with type 2 diabetes: A parallel-group, randomized trial](https://preprints.jmir.org/preprint/30602). <i>JMIR mHealth and uHealth</i>. (In press)
 * <b>Yanxiang Yang</b>, Huijun Hu, and Joerg Koenigstorfer (2022). [Effects of gamified smartphone applications on physical activity: A systematic review and Meta-analysis](https://www.ajpmonline.org/article/S0749-3797(21)00560-2/pdf). <i>American Journal of Preventive Medicine</i>. 62(4): P602-613
