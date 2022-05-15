@@ -24,7 +24,7 @@ My general research interests focus on sport consumer behavior and physical acti
 
 ## Updates
 
-* _04/12/2022_: I am staying as a visiting PhD student for 6 months at the Sport Industry Research Center of Temple University, USA, with Prof. Thilo Kunkel and Prof. Daniel Funk.
+* _04/12/2022_: I am staying as a visiting PhD student for 6 months at the Sport Industry Research Center, Department of Sport and Recreation Management, Temple University, USA, with Prof. Thilo Kunkel and Prof. Daniel Funk.
 * _03/22/2022_: our paper entitled "The effects of a lifestyle intervention supported by the InterWalk smart-phone application on increasing physical activity among persons with type 2 diabetes: A parallel-group, randomized trial" was accepted by JMIR mHealth and uHealth.
 * _01/27/2022_: I joined the "dvs-Mentoring Programm for Young Scientists" of the German Society of Sport Science, with Prof. Sebastian Uhrich from German Sport University as my mentor.
 * _10/20/2021_: our paper entitled "Effects of Gamified Smartphone Applications on Physical Activity: A Systematic Review and Meta-Analysis" was accepted by American Journal of Preventive Medicine.
