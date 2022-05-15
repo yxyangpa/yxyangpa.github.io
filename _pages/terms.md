@@ -59,6 +59,8 @@ Updated: 2022-03-31
 * _11/21/2019_: Doctoral Colloquium "Fitness tracker: yet another consumer trend or valid tool for assessment of physical activity and health status in health care". By Dr. Alexander Tallner (Univ. Erlangen–Nuremberg).
 
 ### External
+* _05/19/2022_: SMAANZ Teaching & Learning Webinar: "DIGITALLY ASSESSING SPORT CONSUMER EXPERIENCES: A SPORT MARKETING ASSESSMENT". By Adam Karg (Swinburne). Organized by SMAANZ.
+* _05/18/2022_: NASSM Student (and Early Career) Engagement Initiative "Building a Research Program as an Early Career Researcher". Organized by NASSM.
 * _10/21/2021_: Webinar "From behavior change theory to interventions and their implementation - what is needed to promote physical activity?". Organized by Prof. Claudio Nigg, University of Bern.
 * _03/15/2021_: Kolloquium "Precision behavioral interventions to promote physical activity". By Prof. David Conroy (Penn State). Organized by University of Bern.
 * _09/2020_: Seminar Series Weekly "Consumer Behavior, Marketing and Society". By Katherine Milkman (Wharton) etc. Organized by Penn-Wharton Behavior Change for Good Initiative.
