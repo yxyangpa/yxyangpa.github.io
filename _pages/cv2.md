@@ -10,9 +10,6 @@ author_profile: true
 
 Here is my [CV](http://yanxiang-yang.github.io/files/paper5.pdf).
 
-
-Here is my [CV2](<embed src="https://yanxiang-yang.github.io/files/paper5.pdf" type="application/pdf" width="600px" height="500px" />)
-
-<embed src="https://yanxiang-yang.github.io/files/paper5.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://yanxiang-yang.github.io/files/paper5.pdf" type="application/pdf" width="500px" height="400px" />
 
 
