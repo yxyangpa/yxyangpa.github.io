@@ -8,6 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-<embed src="https://yanxiang-yang.github.io/files/paper5.pdf" type="application/pdf" width="500px" height="400px" />
+<embed src="https://yanxiang-yang.github.io/files/paper5.pdf" type="application/pdf" width="350px" height="500px" />
 
 
