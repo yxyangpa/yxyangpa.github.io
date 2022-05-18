@@ -18,12 +18,8 @@ author_profile: true
 6. Yue Xue, <b>Yanxiang Yang</b>, and Tao Huang (2019). [Effects of chronic exercise interventions on executive function among children and adolescents: a systematic review with meta-analysis](https://bjsm.bmj.com/content/53/22/1397.abstract). <i>British Journal of Sports Medicine</i>. 53(22): P1397-1404 ([In SJTU News 上海交通大学首页新闻](https://news.sjtu.edu.cn/jdzh/20190314/97425.html))
 7. <b>Yanxiang Yang</b>, Moritz Schumann, Shenglong Le, and Shulin Cheng (2018). [Reliability and validity of a new accelerometer-based device for detecting physical activities and energy expenditure](https://peerj.com/articles/5775/). <i>PeerJ</i>. 6: e5775
 
-## Under Revision
-
-8. <b>Yanxiang Yang</b>, Tim Pawlowski, and Joerg Koenigstorfer (2nd round review in ESMQ). Predicting transfer fees in professional European football before and during COVID-19.
-
 ## Work in Progress
 
-9. <b>Yanxiang Yang</b>, Terri Byers, and Joerg Koenigstorfer (Work in progress). Performance of Not-for-profit Sport Clubs: A Machine Learning Approach.
-
+8. <b>Yanxiang Yang</b>, Terri Byers, and Joerg Koenigstorfer (Work in progress). Performance of Not-for-profit Sport Clubs: A Machine Learning Approach.
+9. <b>Yanxiang Yang</b>, Tim Pawlowski, and Joerg Koenigstorfer (2nd round review in ESMQ). Predicting transfer fees in professional European football before and during COVID-19.
 
