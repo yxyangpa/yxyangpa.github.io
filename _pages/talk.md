@@ -9,6 +9,7 @@ author_profile: true
 
 ## EASM
 
+* _09/04/2022_: “Determinants of the Performance of Not-for-profit Sport Clubs: A Machine Learning Approach”. 30th European Sport Management Conference, Innsbruck, Austria.
 * _09/29/2021_: “Determinants of transfer fees in professional European soccer”. 29th European Sport Management Conference (Virtual).
 * _09/23/2020_: "Pathways of how fitness apps increase physical activity". 28th European Sport Management Conference (Virtual).
 
