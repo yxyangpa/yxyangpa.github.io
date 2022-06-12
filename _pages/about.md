@@ -15,12 +15,11 @@ I earned my bachelor in Management at [Shanghai University](https://www.shu.edu.
 ## Research Interests
 My research interests focuses on sport and health management, particularly on sport and health consumer behavior. My first research line investigates the role of gamification in consumers' physical activity behavior change (fitness consumers) and engagement & loyalty (sport fans). With a special passion for tennis, my second research line aims to understand the managerial and economic aspects of tennis (e.g., fans behavior, economic impacts, tennis for health). I employ multiple research methodology including quantitative (e.g., structural equation modeling, machine learning approach, meta-analysis) and qualitative (e.g., semi-structured interview). I am an R user. My research keywords are:
 
-* Sport Management (Consumer Behavior)
-* Physical Activity
+* Sport and Health Management
+* Consumer Behavior
 * Gamification
-* Machine Learning
-* Tennis
-
+* Physical Activity
+* Economics and Management of Tennis
 
 ## Updates
 
