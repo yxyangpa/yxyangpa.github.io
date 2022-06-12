@@ -12,7 +12,6 @@ Updated: 2022-03-31
 * <b>06/2021</b>: Student Member of North American Society for Sport Management (NASSM)
 * <b>01/2022</b>: dvs-Mentoring Programm (German Society of Sport Science); Mentor: Prof. Sebastian Uhrich, DSHS
 * <b>08/2020</b>:	Student Member of China Sport Science Society (Section of Sport Management)
-* This is a test <span style="color: green"> Yanxiang </span>
 
 
 ## Awards
