@@ -33,6 +33,8 @@ My research interests focus on sport and health management, particularly on cons
 * _11/06/2019_: I started as a PhD student and research assitant at the Chair of Sport and Health Management of TUM.
 * _09/03/2018_: I started as a CSC-Denmark joint master student at University of Copenhagen for six months.
 * _05/01/2018_: I started as a visiting master student at German Sport University Cologne for three months.
+* _09/2016_: I started as a master student at Shanghai Jiao Tong University.
+
 
 
 
